@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("Hollo GitHub");
+  return 0;
+ }
